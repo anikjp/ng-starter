@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-sandbox"
+    }
+  },
+  "defaultProject": "ng-sandbox",
+  "cli": {
+    "analytics": "8b300d04-011c-4555-b002-c9bad539ea55"
+  }
 }
